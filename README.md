@@ -14,4 +14,8 @@ Note: each app is like package and u can create many so now lets run
 
 d) python3 manage.py startapp products
 
+e) python3 manage.py makemigrations
+
+ python3 manage.py migrate
+
 access via http://127.0.0.1:8000/products/
