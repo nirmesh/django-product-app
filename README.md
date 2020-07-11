@@ -1,5 +1,6 @@
 
 create project in pycharm
+
  a)  In termin pip install django==2.1
 
  b) django-admin startproject pyshop .
