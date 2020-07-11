@@ -5,3 +5,6 @@ from django.shortcuts import render
 def index(request):
     return HttpResponse('hello world')
 
+def new(request):
+    return HttpResponse('new page')
+
